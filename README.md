@@ -59,9 +59,3 @@ Make sure to have these dependencies installed to run the application successful
 ## Contributing
 
 Contributions are welcome! If you wish to contribute to the project, fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
